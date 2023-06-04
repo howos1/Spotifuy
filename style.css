@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: yellow;
+}
+
+.background {
+    background-image: linear-gradient( lightgreen,gold);
+}
+
+h2 {
+    color: red;
+}
+
+p{
+    font-weight: bold;
+}
+
+.s1 {
+    border-bottom: solid black;
+}
+
+.s2 {
+    border-bottom: solid black;
+}
+
+.s3 {
+    border-bottom: solid black;
+}
+
+.s4 {
+    border-bottom: solid black;
+}
+
+.s5 {
+    border-top: solid black;
+}
+
+.me {
+    color: black;
+    text-align: center;
+}
+
+.mus2 {
+    float: right;
+    margin-top: -1277px;
+    margin-right: 25px;
+}
+
+.s7 {
+    margin-top: 37px;
+}
+
+
